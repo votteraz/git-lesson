@@ -16,7 +16,7 @@ body {
   }
   
   h2 {
-    padding-bottom: 12px;
+    padding-bottom: 17px;
     border-bottom: 1px solid #cccccc;
     color: #15ec01;
   }
@@ -52,7 +52,7 @@ body {
   .container {
     width: 580px;
     margin: 0 aut;
-    color: #0e380a;
+    color: #0f380a;
   }
   
   .site-header img {
@@ -96,6 +96,8 @@ body {
   .skills-list {
     padding: 0;
     list-style: none;
+    padding-bottom: 14px;
+    border-bottom: 1px solid #cccccc;
   }
   
   .site-footer {
